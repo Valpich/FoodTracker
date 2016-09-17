@@ -54,6 +54,7 @@ class RatingControl: UIView {
         }
         updateButtonSelectionStates()
     }
+    
     /*
     override func intrinsicContentSize() -> CGSize {
         let buttonSize = Int(frame.size.height)
